@@ -16,6 +16,6 @@
 
 <h3 align="left">Connect with me ❤️</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hariharanm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hariharanm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hariharan-m-238a5445/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hariharanm" height="30" width="40" /></a>
 <a href="https://instagram.com/hariharan.mct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hariharan.mct" height="30" width="40" /></a>
 </p>
